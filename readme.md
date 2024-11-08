@@ -19,6 +19,8 @@
 
 <p align="left">DevForge Solutions is a leading tech agency dedicated to crafting innovative digital experiences. Specializing in web development, app development, software solutions and graphic design we merge creativity with cutting-edge technology to deliver solutions that help businesses thrive in the digital age. Our team of expert developers, designers, and creatives work together to forge custom solutions tailored to the unique needs of each client.</p>
 
+<ul>Most of our repositories are private to maintain client confidentiality</ul>
+
 ###
 
 <h3 align="left">🛠 Tech stack we use</h3>
