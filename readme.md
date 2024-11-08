@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1bwywHa-DdXsNBu2u9XqRF8oY3p-6KTS0/view?usp=sharing"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.instagram.com/devforge_solutions/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect%20on%20Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
@@ -195,6 +189,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
